@@ -1,0 +1,7 @@
+DAILYKIT — BASIC PRIVACY NOTICE (prototype)
+
+DailyKit is a browser-based utility prototype. Notes are saved in local browser storage on this device. Tool inputs are processed in your browser where possible. The QR generator loads a small JavaScript library from a public CDN; QR text is processed locally by that library and is not intentionally sent to DailyKit servers.
+
+This prototype does not currently include advertising, analytics, accounts, cloud sync, or a backend. Before public release, replace this notice with a complete privacy policy that accurately lists the final app behaviour, hosting, any advertising/analytics SDKs, data retention, contact details, and applicable legal requirements.
+
+Contact: add a real support email before publishing.
